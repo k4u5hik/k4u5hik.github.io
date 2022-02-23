@@ -28,3 +28,11 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
+gem 'jekyll-admin', group: :jekyll_plugins
+gem 'jekyll-sitemap', group: :jekyll_plugins
+gem 'jekyll-gist', group: :jekyll_plugins
+gem 'jekyll-paginate', group: :jekyll_plugins
+gem 'jekyll-redirect-from', group: :jekyll_plugins
+gem 'jekyll-relative-links', group: :jekyll_plugins
+gem 'jekyll-seo-tag', group: :jekyll_plugins
+gem 'jekyll-minify-html', group: :jekyll_plugins
