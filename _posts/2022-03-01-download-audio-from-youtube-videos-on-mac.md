@@ -2,7 +2,7 @@
 title: 'Download audio from Youtube videos on Mac'
 layout: post
 date: 2022-3-1 10:19:00 +1100
-categories: Mac Terminal
+categories: Terminal
 ---
 
 This post is for Mac users who want to download audio from youtube videos
