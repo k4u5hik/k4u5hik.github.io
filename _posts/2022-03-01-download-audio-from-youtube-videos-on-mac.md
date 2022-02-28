@@ -1,5 +1,8 @@
 ---
-title: Download audio from Youtube videos on Mac
+title: 'Download audio from Youtube videos on Mac'
+layout: post
+date: 2022-3-1 10:19:00 +1100
+categories: Mac Terminal
 ---
 
 1. [Install Homebrew](https://brew.sh/)
