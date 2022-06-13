@@ -7,7 +7,7 @@ categories: Terminal SSH
 
 - Open Terminal
 - `ssh-keygen`
-- Generating public/private rsa key pair. 
+- Generating public/private rsa key pair.
   - Enter file in which to save the key (/Users/kaushik/.ssh/id_rsa): kaushik
   - Enter passphrase (empty for no passphrase):
   - Enter same passphrase again:
